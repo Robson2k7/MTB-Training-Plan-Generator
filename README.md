@@ -19,8 +19,14 @@ MTB Training Plan Generator sprawdzi się zarówno dla początkujących kolarzy,
      - **Tygodniowego dystansu (km):** minimalnie 10 km.
      - **Rodzaju terenu:** Górzysty, Leśny, Miejski, Mieszany.
 
+![screen1](https://github.com/user-attachments/assets/9594d0e1-a3da-4231-b88d-fc28e6d31756)
+
+
 2. **Generowanie planu:**
    - Automatyczne tworzenie szczegółowego planu treningowego MTB na podstawie danych wejściowych użytkownika.
+
+![screen2](https://github.com/user-attachments/assets/8d3249a2-a944-4986-ba0b-5f56f2621463)
+
 
 3. **Przejrzysty interfejs:**
    - Intuicyjna obsługa za pomocą formularzy, suwaków i list rozwijanych w aplikacji Streamlit.
