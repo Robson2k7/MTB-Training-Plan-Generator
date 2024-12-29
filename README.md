@@ -43,6 +43,9 @@ MTB Training Plan Generator sprawdzi się zarówno dla początkujących kolarzy,
 - **Python:** Język programowania użyty do logiki aplikacji i integracji z API.
 - **python-dotenv:** Biblioteka do bezpiecznego zarządzania zmiennymi środowiskowymi.
 
+![image](https://github.com/user-attachments/assets/1a03709f-8961-4007-9242-ded72bcb369a)
+
+
 ---
 
 ## **Plik `.env`**
